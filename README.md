@@ -1,4 +1,4 @@
-# MY HYPRLAND RICE
+# HYPRLAND RICE
 This rice uses configs from many repos, so it's not 100% pure my creation
 
 I use Matugen as the color scheme generator, so this dotfiles will work better with Matugen as you don't have to reconfigure every colors in the config file
